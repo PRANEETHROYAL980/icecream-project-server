@@ -1,0 +1,173 @@
+{
+    "category": [
+
+        
+        {
+            "image": "https://img.freepik.com/free-photo/side-view-white-ice-cream-scoops-decorated-with-chocolate-cookies-syrup-vase-wooden-table_140725-10349.jpg?t=st=1731480841~exp=1731484441~hmac=98c42cdf79b4d2355af18316322ff911677031f1566cc7038b1b5972f448a3c8&w=740",
+            "head": "Sundaes",
+            "symbol":"./src/assets/Link.png"
+        },
+        {
+            "image": "https://img.freepik.com/free-photo/ice-creams-glass-near-sweet-bauble-board_23-2148131227.jpg?t=st=1731480880~exp=1731484480~hmac=82b10395092779d07573ada9add7dcc8bd16c9d90c2132fceff9916d56fca855&w=996",
+            "head": "Icecream cone",
+            "symbol":"./src/assets/Link.png"
+            
+
+        },
+        {
+            "image": "https://img.freepik.com/free-photo/delicious-milkshakes_144627-41555.jpg?t=st=1731480913~exp=1731484513~hmac=6656e99d9a2b73b7fdf8e54e967391c499f7608916326ea5447fab0dd89ec758&w=900",
+            "head": "Milkshakes",
+            "symbol":"./src/assets/Link.png"
+            
+
+        },
+        {
+            "image": "https://img.freepik.com/free-photo/delicious-ice-cream-winter-time_23-2149618933.jpg?t=st=1731480967~exp=1731484567~hmac=1b9b0c6a8a5a10a2a4aa429db355d6e641eb7ec69a46757a541ead4a6256a90e&w=996",
+            "head": "Seasonal Flavours",
+            "symbol":"./src/assets/Link.png"
+            
+
+        }
+    ],
+    "BestSeller": [
+        {
+            "image": "https://media.istockphoto.com/id/864680082/photo/editable-chocolate-chip-cookie-dough-cone.jpg?s=612x612&w=0&k=20&c=4dMUB2EA2W3GEiAop3unutfSkfsbfceapvgqamEvF1U=",
+            "main": "Chocolate Chip Cookie Cone",
+            "content": "Chocolate chip cookie dough ice cream in a cone.",
+            "price": "$4.49"
+        },
+        {
+            "image": "https://img.freepik.com/free-photo/ice-cream-balls-topped-with-cookies-candies_140725-1800.jpg?t=st=1731556106~exp=1731559706~hmac=9a8c9441ee850a0dd33804c3f0681becbc95faeb68b250a583ff2c4cdd3d2fdd&w=740",
+            "main": "Rocky Road Sundae",
+            "content": "Marshmallow and nutty rocky road ice cream",
+            "price": "$5.69"
+        },
+        {
+            "image": "https://img.freepik.com/free-photo/vanilla-ice-cream-with-strawberry-syrup-garnished-with-grated-chocolate_140725-6876.jpg?t=st=1731556172~exp=1731559772~hmac=efdfea54e56cd55e5e4a2ffc9dade048489b05f48e457cefabf706bbfb3ba739&w=740",
+            "main": "Peach Melba Sundae",
+            "content": "Peach ice cream topped with raspberry sauce",
+            "price": "$5.39"
+        },
+        {
+            "image": "https://img.freepik.com/free-photo/strawberry-smoothie-with-waffles-chocolate-white-plate-marble-surface_114579-33857.jpg?t=st=1731556224~exp=1731559824~hmac=11804e7522b66d56cf6ab834e4e3a06ca985ac8be6e42fb7fa128a18274188bb&w=996",
+            "main": "Strawberry Sundae",
+            "content": "Strawberry ice cream with fresh strawberries",
+            "price": "$5.99"
+        }
+    ],
+    "total": [
+     
+        {
+            "image": "https://img.freepik.com/premium-photo/almond-shake_128419-2.jpg?w=360",
+            "head": "Badam Milkshake",
+            "type":"Milkshake"
+
+        },
+        {
+            "image": "https://img.freepik.com/free-photo/ice-cream_144627-19537.jpg?t=st=1731562334~exp=1731565934~hmac=90eeaf0b540d00ccbf5b89473e2691a8b070a8d84b6c227cb683e7ee452dee98&w=360",
+            "head": "Strawberry icecream",
+            "type":"Ice cream"
+
+        },
+        {
+            "image": "https://img.freepik.com/free-photo/dessert-delicious-ice-cream-table_144627-40217.jpg?t=st=1731562402~exp=1731566002~hmac=6b98dc39ea0926e696036097fd5f6305ce50dc3394715ec0f2b48240b527f470&w=360",
+            "head": "Vanilla icecream",
+            "type":"Ice cream"
+
+        },
+        {
+            "image": "https://img.freepik.com/premium-photo/caramel-cocktail-with-ice-cream_508037-850.jpg?w=360",
+            "head": "Lassi Milkshake",
+            "type":"Milkshake"
+
+        },
+        {
+            "image": "https://img.freepik.com/premium-photo/blackberry-icecream-with-frozen-fruits_320833-2.jpg?w=360",
+            "head": "BlackCurrent icecream",
+            "type":"Ice cream"
+
+        },
+        {
+            "image": "https://img.freepik.com/free-photo/high-angle-cup-with-nougats_23-2149646298.jpg?t=st=1731562851~exp=1731566451~hmac=fedb0014b3f146a1bb0c2d7075a971fcdc7a9dc8df39020b11227c11731c2e9b&w=360",
+            "head": "Butterscotch icecream",
+            "type":"Ice cream"
+
+        },
+        {
+            "image": "https://img.freepik.com/premium-photo/cold-strawberry-milkshake-with-fresh-strawberries-cream-high-transparent-glass_106233-848.jpg?w=360",
+            "head": "Strawberry Milkshake",
+            "type":"Milkshake"
+
+        },
+        {
+            "image": "https://img.freepik.com/free-photo/homemade-roasted-plum-ice-cream-recipe-food_53876-96796.jpg?t=st=1731562970~exp=1731566570~hmac=b4a7672ac77784331f02f3f2d59f8c43d5a28519451ea14db8514ab271c74c8e&w=996",
+            "head": "Rabadi icecream",
+            "type":"Ice cream"
+
+        },
+
+        {
+            "image": "https://img.freepik.com/premium-photo/sweet-milkshake-with-whipped-cream_82893-18184.jpg?w=996",
+            "head": "Oreo Milkshake",
+            "type":"Milkshake"
+
+        },
+       
+       
+        {
+            "image": "https://img.freepik.com/premium-photo/glass-ice-cream-with-mango-mint-leaves-it-ice-cream-shake_207225-1183.jpg?w=740",
+            "head": "Mango Milkshake",
+            "type":"Milkshake"
+
+        },
+        {
+            "image": "https://img.freepik.com/free-photo/chocolate-ice-cream-dessert_144627-8364.jpg?t=st=1731562265~exp=1731565865~hmac=857871de258e46dbd64b9e33396b491fb3c638b1df443eec88da444edb6c3233&w=360",
+            "head": "Chocolate icecream",
+            "type":"Ice cream"
+        },
+        {
+            "image": "https://img.freepik.com/free-photo/woman-hand-squeezing-orange-smoothie-slice-orange-white-plate_114579-33864.jpg?t=st=1731563225~exp=1731566825~hmac=3b2f4d2e36813d5c0dbe03dea0722cf5871e14facbaef55d42dacb78dab75134&w=996",
+            "head": "Orange Milkshake",
+            "type":"Milkshake"
+
+        }
+       
+    ],
+    "users": [
+        {
+            "image": "./src/assets/userimg1.png",
+            "head": "Marvin Joner",
+            "body": "Bakery Worker",
+            "social": "./src/assets/Social.png"
+        },
+        {
+            "image": "./src/assets/userimg2.png",
+            "head": "Patricia Woodrum",
+            "body": "Staff Worker",
+            "social": "./src/assets/Social.png"
+        },
+        {
+            "image": "./src/assets/userimg3.png",
+            "head": "Hannaz Stone",
+            "body": "Shop Worker",
+            "social": "./src/assets/Social.png"
+        },
+        {
+            "image":"./src/assets/Userimg4.png",
+            "head":"Elina James",
+            "body":"Bakery Worker",
+            "social":"./src/assets/Social.png"
+        },
+        {
+            "image":"./src/assets/userimg5.png",
+            "head":"Andrew",
+            "body":"Worker",
+            "social":"./src/assets/Social.png"
+        }, {
+            "image":"./src/assets/userimg6.png",
+            "head":"Trout",
+            "body":"Worker",
+            "social":"./src/assets/Social.png"
+        }
+    ]
+}
