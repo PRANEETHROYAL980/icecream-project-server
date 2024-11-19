@@ -138,36 +138,36 @@
             "image": "./src/assets/userimg1.png",
             "head": "Marvin Joner",
             "body": "Bakery Worker",
-            "social": "./src/assets/Social.png"
+            "social": "https://static.vecteezy.com/system/resources/thumbnails/003/600/947/small_2x/set-of-social-media-icon-in-round-bakground-free-vector.jpg"
         },
         {
             "image": "./src/assets/userimg2.png",
             "head": "Patricia Woodrum",
             "body": "Staff Worker",
-            "social": "./src/assets/Social.png"
+            "social": "https://static.vecteezy.com/system/resources/thumbnails/003/600/947/small_2x/set-of-social-media-icon-in-round-bakground-free-vector.jpg"
         },
         {
             "image": "./src/assets/userimg3.png",
             "head": "Hannaz Stone",
             "body": "Shop Worker",
-            "social": "./src/assets/Social.png"
+            "social": "https://static.vecteezy.com/system/resources/thumbnails/003/600/947/small_2x/set-of-social-media-icon-in-round-bakground-free-vector.jpg"
         },
         {
             "image":"./src/assets/Userimg4.png",
             "head":"Elina James",
             "body":"Bakery Worker",
-            "social":"./src/assets/Social.png"
+            "social":"https://static.vecteezy.com/system/resources/thumbnails/003/600/947/small_2x/set-of-social-media-icon-in-round-bakground-free-vector.jpg"
         },
         {
             "image":"./src/assets/userimg5.png",
             "head":"Andrew",
             "body":"Worker",
-            "social":"./src/assets/Social.png"
+            "social":"https://static.vecteezy.com/system/resources/thumbnails/003/600/947/small_2x/set-of-social-media-icon-in-round-bakground-free-vector.jpg"
         }, {
             "image":"./src/assets/userimg6.png",
             "head":"Trout",
             "body":"Worker",
-            "social":"./src/assets/Social.png"
+            "social":"https://static.vecteezy.com/system/resources/thumbnails/003/600/947/small_2x/set-of-social-media-icon-in-round-bakground-free-vector.jpg"
         }
     ]
 }

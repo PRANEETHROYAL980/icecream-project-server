@@ -2,7 +2,7 @@
     "name": "json-server-app",
     "version": "1.0.0",
     "description": "Fake REST API using json-server",
-    "scripts": {
+    "scripts": { 
       "start": "json-server --watch db.json --port $PORT --host 0.0.0.0"
     },
     "dependencies": {
