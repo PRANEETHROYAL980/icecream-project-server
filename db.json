@@ -135,7 +135,7 @@
     ],
     "users": [
         {
-            "image": "./src/assets/userimg1.png",
+            "image": "https://e1.pngegg.com/pngimages/99/117/png-clipart-circle-shaped-s-man-smiling-portrait-thumbnail.png",
             "head": "Marvin Joner",
             "body": "Bakery Worker",
             "social": "https://static.vecteezy.com/system/resources/thumbnails/003/600/947/small_2x/set-of-social-media-icon-in-round-bakground-free-vector.jpg"
